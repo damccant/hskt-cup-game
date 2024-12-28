@@ -1,0 +1,23 @@
+{
+  "name": "hskt-cup-game",
+  "version": "1.0.0",
+  "description": "Head-Shoulders-Knees-Toes-Cup Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/damccant/hskt-cup-game.git"
+  },
+  "author": "Derek McCants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damccant/hskt-cup-game/issues"
+  },
+  "homepage": "https://github.com/damccant/hskt-cup-game#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.2"
+  }
+}

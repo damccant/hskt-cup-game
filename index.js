@@ -1,4 +1,4 @@
-const HTTP_PORT = 8080;
+const HTTP_PORT = process.env.PORT || 8080;
 
 const express = require('express');
 const path = require('path');
